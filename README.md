@@ -10,6 +10,7 @@ Réaliser un prototype en intégrant la maquette en HTML et CSS
 
   * Html
   * Css / animations en css
+  * Sass
 
 ## Contraintes  
   * Il

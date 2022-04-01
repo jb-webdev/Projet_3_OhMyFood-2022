@@ -1,0 +1,19 @@
+{
+  "name": "projet_3_ohmyfood-2022",
+  "version": "1.0.0",
+  "description": "projet d'étude Openclassrooms",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:./css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jb-webdev/Projet_3_OhMyFood-2022.git"
+  },
+  "author": "jb-webdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jb-webdev/Projet_3_OhMyFood-2022/issues"
+  },
+  "homepage": "https://github.com/jb-webdev/Projet_3_OhMyFood-2022#readme"
+}
